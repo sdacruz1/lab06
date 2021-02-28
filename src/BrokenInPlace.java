@@ -1,4 +1,4 @@
-package lab07.src;
+package src;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package lab07.src;
+package src;
 
 import java.util.LinkedList;
 import java.util.List;

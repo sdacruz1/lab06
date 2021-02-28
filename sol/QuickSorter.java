@@ -1,4 +1,4 @@
-package lab06.sol;
+package sol;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
