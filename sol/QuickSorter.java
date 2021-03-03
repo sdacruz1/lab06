@@ -14,6 +14,7 @@ public class QuickSorter {
         right.remove(0);
         List<Integer> leftSorted = sort(left);
         List<Integer> rightSorted = sort(right);
+        leftSorted.add(pivot);
         leftSorted.addAll(rightSorted);
         return leftSorted;
     }
